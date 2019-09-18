@@ -55,7 +55,7 @@ in "encoded-errno"
 ```
 
 ## More details
-* [The CheQ paper (ESORICS'19)](https://www-users.cs.umn.edu/~kjlu/papers/cheq.pdf)
+* [The CheQ paper (ESORICS'19)](https://link.springer.com/chapter/10.1007/978-3-030-29962-0_1)
 ```sh
 @inproceedings{cheq-esorics19,
   title        = {{Automatically Identifying Security Checks for Detecting Kernel Semantic Bugs}},
