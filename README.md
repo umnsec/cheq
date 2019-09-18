@@ -44,7 +44,7 @@ in "encoded-errno"
 * Compile the code with options: -O0 or -O2, -g, -fno-inline
 * Generate bitcode files
 	- We have our own tool to generate bitcode files: https://github.com/sslab-gatech/deadline/tree/release/work. Note that files (typically less than 10) with compilation errors are simply discarded
-	- We also provided the pre-compiled bitcode files - `linux-5.3.0.tar.gz`
+	- We also provided the pre-compiled bitcode files - https://github.com/umnsec/linux-bitcode
 
 ### Run the CheQ analyzer
 ```sh
