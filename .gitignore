@@ -1,0 +1,10 @@
+*.ll
+llvmlinux
+json/
+bc20/
+bc/
+.DS_Store
+*.csv
+/ksym/
+*.list
+firefox
