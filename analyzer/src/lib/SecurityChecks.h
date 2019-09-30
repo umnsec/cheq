@@ -1,5 +1,5 @@
-#ifndef _SECURITY_CHECKS_H
-#define _SECURITY_CHECKS_H
+#ifndef SECURITY_CHECKS_H
+#define SECURITY_CHECKS_H
 
 #include "Analyzer.h"
 #include "Common.h"

@@ -1,6 +1,6 @@
 //===-- Analyzer.cc - the kernel-analysis framework--------------===//
 //
-// This file implemets the analysis framework. It calls the pass for
+// This file implements the analysis framework. It calls the pass for
 // building call-graph and the pass for finding security checks.
 //
 // ===-----------------------------------------------------------===//

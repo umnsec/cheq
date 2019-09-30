@@ -1,5 +1,5 @@
-#ifndef _SACONFIG_H
-#define _SACONFIG_H
+#ifndef SACONFIG_H
+#define SACONFIG_H
 
 #include "llvm/Support/FileSystem.h"
 

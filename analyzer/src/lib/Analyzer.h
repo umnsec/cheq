@@ -1,5 +1,5 @@
-#ifndef _ANALYZER_GLOBAL_H
-#define _ANALYZER_GLOBAL_H
+#ifndef ANALYZER_GLOBAL_H
+#define ANALYZER_GLOBAL_H
 
 #include <llvm/IR/DebugInfo.h>
 #include <llvm/IR/Module.h>

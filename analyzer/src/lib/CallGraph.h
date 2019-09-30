@@ -1,5 +1,5 @@
-#ifndef _CALL_GRAPH_H
-#define _CALL_GRAPH_H
+#ifndef CALL_GRAPH_H
+#define CALL_GRAPH_H
 
 #include "Analyzer.h"
 
