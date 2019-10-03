@@ -1,0 +1,17 @@
+Whole run of Linux Kernel containing 18074 bitcode files
+
+To identify the security checks via source code enable printSourceCodeInfo() in
+identifySecurityChecks() in SecurityChecks.cc
+
+Run as ./lib/kanalyzer -sc @bit0.list 
+
+To capture the output to a file use:
+./lib/kanalyzer -sc @bit0.list > output 2>&1
+
+Time taken to complete = 4 min 34 sec
+
+Generating result.ods requires parsing the output file and accounting for
+the count of each instance. It is a sample records generated from one of our
+many runs.
+
+result.ods requires manual analysis to confirm the validity of a bug.

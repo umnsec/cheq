@@ -1,0 +1,100 @@
+Total 20 file(s)
+[CallGraph] Initializing 20 modules ....................
+[CallGraph / 1] [1 / 20] [../../bc/net/dccp/options.bc]
+
+[CallGraph / 1] [2 / 20] [../../bc/net/dccp/output.bc]
+
+[CallGraph / 1] [3 / 20] [../../bc/net/dccp/minisocks.bc]
+
+[CallGraph / 1] [4 / 20] [../../bc/net/dccp/input.bc]
+
+[CallGraph / 1] [5 / 20] [../../bc/net/dccp/sysctl.bc]
+
+[CallGraph / 1] [6 / 20] [../../bc/net/dccp/timer.bc]
+
+[CallGraph / 1] [7 / 20] [../../bc/net/dccp/qpolicy.bc]
+
+[CallGraph / 1] [8 / 20] [../../bc/net/dccp/ccids/lib/tfrc.bc]
+
+[CallGraph / 1] [9 / 20] [../../bc/net/dccp/ccids/lib/tfrc_equation.bc]
+
+[CallGraph / 1] [10 / 20] [../../bc/net/dccp/ccids/lib/packet_history.bc]
+
+[CallGraph / 1] [11 / 20] [../../bc/net/dccp/ccids/lib/loss_interval.bc]
+
+[CallGraph / 1] [12 / 20] [../../bc/net/dccp/ccids/ccid2.bc]
+
+[CallGraph / 1] [13 / 20] [../../bc/net/dccp/ccids/ccid3.bc]
+
+[CallGraph / 1] [14 / 20] [../../bc/net/dccp/ipv6.bc]
+
+[CallGraph / 1] [15 / 20] [../../bc/net/dccp/diag.bc]
+
+[CallGraph / 1] [16 / 20] [../../bc/net/dccp/feat.bc]
+
+[CallGraph / 1] [17 / 20] [../../bc/net/dccp/ccid.bc]
+
+[CallGraph / 1] [18 / 20] [../../bc/net/dccp/proto.bc]
+
+[CallGraph / 1] [19 / 20] [../../bc/net/dccp/ipv4.bc]
+
+[CallGraph / 1] [20 / 20] [../../bc/net/dccp/ackvec.bc]
+
+[CallGraph] Updated in 0 modules.
+[CallGraph] Postprocessing ...
+[CallGraph] Done!
+
+[SecurityChecks] Initializing 20 modules ....................
+[SecurityChecks / 1] [1 / 20] [../../bc/net/dccp/options.bc]
+
+[SecurityChecks / 1] [2 / 20] [../../bc/net/dccp/output.bc]
+
+[SecurityChecks / 1] [3 / 20] [../../bc/net/dccp/minisocks.bc]
+
+[SecurityChecks / 1] [4 / 20] [../../bc/net/dccp/input.bc]
+
+[SecurityChecks / 1] [5 / 20] [../../bc/net/dccp/sysctl.bc]
+
+[SecurityChecks / 1] [6 / 20] [../../bc/net/dccp/timer.bc]
+
+[SecurityChecks / 1] [7 / 20] [../../bc/net/dccp/qpolicy.bc]
+
+[SecurityChecks / 1] [8 / 20] [../../bc/net/dccp/ccids/lib/tfrc.bc]
+
+[SecurityChecks / 1] [9 / 20] [../../bc/net/dccp/ccids/lib/tfrc_equation.bc]
+
+[SecurityChecks / 1] [10 / 20] [../../bc/net/dccp/ccids/lib/packet_history.bc]
+
+[SecurityChecks / 1] [11 / 20] [../../bc/net/dccp/ccids/lib/loss_interval.bc]
+
+[SecurityChecks / 1] [12 / 20] [../../bc/net/dccp/ccids/ccid2.bc]
+
+[SecurityChecks / 1] [13 / 20] [../../bc/net/dccp/ccids/ccid3.bc]
+
+[SecurityChecks / 1] [14 / 20] [../../bc/net/dccp/ipv6.bc]
+
+[SecurityChecks / 1] [15 / 20] [../../bc/net/dccp/diag.bc]
+
+[SecurityChecks / 1] [16 / 20] [../../bc/net/dccp/feat.bc]
+
+[SecurityChecks / 1] [17 / 20] [../../bc/net/dccp/ccid.bc]
+
+[SecurityChecks / 1] [18 / 20] [../../bc/net/dccp/proto.bc]
+
+[SecurityChecks / 1] [19 / 20] [../../bc/net/dccp/ipv4.bc]
+
+[SecurityChecks / 1] [20 / 20] [../../bc/net/dccp/ackvec.bc]
+
+[SecurityChecks] Updated in 0 modules.
+[SecurityChecks] Postprocessing ...
+[SecurityChecks] Done!
+
+############## Result Statistics ##############
+# Number of sanity checks: 			328
+# Number of conditional statements: 		1820
+# Ave. Number of indirect-call targets: 	0
+# Number of indirect calls: 			53
+# Number of address-taken functions: 		129
+# Number of first layer calls: 			46
+# Number of second layer calls: 		44
+# Number of indirect-call targets: 		18
