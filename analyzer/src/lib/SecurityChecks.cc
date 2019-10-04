@@ -794,7 +794,7 @@ void SecurityChecksPass::identifySecurityChecks(Function *F,
 
 		if (Cond) {
 			addSecurityCheck(Cond, Inst, SCSet);
-#ifndef DEBUG_PRINT
+#ifdef DEBUG_PRINT
 			printSourceCodeInfo(Cond);
 #endif
 		}
